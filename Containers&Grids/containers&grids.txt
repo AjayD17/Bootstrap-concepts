@@ -1,0 +1,12 @@
+1. Containers: 3 types
+    (i) container-fluid
+    (ii) container 
+    (iii) container-lg, container-sm (Breakpoint specific...)
+
+2. Grid System
+
+    Bootstrap uses a 12-column grid system.
+
+    .row → creates a horizontal group
+    .col → auto divides space equally
+    .col-* → fixed number of columns

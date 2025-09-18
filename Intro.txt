@@ -1,0 +1,27 @@
+1. Bootstrap: 
+        Bootstrap is a free, open-source front-end framework used for building responsive and mobile-first websites quickly and easily.
+        It provides a collection of ready-to-use HTML, CSS, and JavaScript components such as:
+
+2. Grid system (for layout design)
+        i. Typography (fonts, headings, text styles)
+        ii. Buttons, forms, tables
+        iii. Navigation bars, modals, carousels, alerts
+        iv. Responsive utilities
+
+3. Key Features of Bootstrap:
+        i. Responsive Design → Websites adjust to desktops, tablets, and mobiles automatically.
+        ii. Grid System → Uses a 12-column layout to create flexible designs.
+        iii. Pre-styled Components → Ready-made UI elements save development time.
+        iv. Cross-browser Compatibility → Works consistently across major browsers.
+        v. Customizable → You can override Bootstrap styles with your own CSS.
+
+4. Concepts:
+        i. Typography.
+        ii. Buttons and colors.
+        iii. Margins and Paddings.
+        iv. Containers and Grids.
+        v. Navbars.
+        vi. Cards and Icons.
+        vii. Accordion Forms and other components.
+
+

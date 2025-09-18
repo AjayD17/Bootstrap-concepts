@@ -1,0 +1,11 @@
+1. Accordion → Collapsible sections
+
+2. Forms → Input fields, checkboxes, radio, inline forms
+
+3. Modal → Popup dialogs
+
+4. Alert → Notifications
+
+5. Badge → Small labels/counts
+
+6. Buttons, Cards, Navbar → Layout and interactivity
