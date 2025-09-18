@@ -21,7 +21,8 @@
         iii. Margins and Paddings.
         iv. Containers and Grids.
         v. Navbars.
-        vi. Cards and Icons.
-        vii. Accordion Forms and other components.
+        vi. Carousels. (Website: https://picsum.photos/), (Website: https://unsplash.com/), (Website: https://placeholder.com/)...
+        vii. Cards and Icons.
+        viii. Accordion Forms and other components.
 
 
